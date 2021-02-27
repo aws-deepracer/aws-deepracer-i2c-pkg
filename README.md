@@ -2,7 +2,7 @@
 
 ## Overview
 
-The DeepRacer Device Info ROS package creates the *battery_node* which is part of the core AWS DeepRacer application and will be launched from the deepracer_launcher. More details about the application and the components can be found [here](https://github.com/aws-racer/aws-deepracer-launcher).
+The DeepRacer I2C ROS package creates the *battery_node* which is part of the core AWS DeepRacer application and will be launched from the deepracer_launcher. More details about the application and the components can be found [here](https://github.com/aws-racer/aws-deepracer-launcher).
 
 This node is responsible for providing the vehicle battery level information. It provides functions to read the battery level values from the I2C bus and return the corresponding level information. 
 
