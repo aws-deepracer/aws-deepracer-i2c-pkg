@@ -96,3 +96,7 @@ The  i2c_pkg_launch.py is also included in this package that gives an example of
 | Service Name | Service Type | Description |
 | ---------- | ------------ | ----------- |
 | battery_level|BatteryLevelSrv|A service that is called to get the current vehicle battery level information in the range of [0 to 11].|
+
+## Resources
+
+* AWS DeepRacer Opensource getting started: [https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md](https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md)
