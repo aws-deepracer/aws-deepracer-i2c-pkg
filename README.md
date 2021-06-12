@@ -16,9 +16,9 @@ Follow these steps to install the AWS DeepRacer I2C package.
 
 ### Prerequisites
 
-The AWS DeepRacer device comes with all the prerequisite packages and libraries installed to run the `i2c_pkg`. For more information about the pre-installed set of packages and libraries on the AWS DeepRacer and about installing the required build systems, see [Getting started with AWS DeepRacer OpenSource](https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/getting-started.md).
+The AWS DeepRacer device comes with all the prerequisite packages and libraries installed to run the `i2c_pkg`. For more information about the preinstalled set of packages and libraries on the AWS DeepRacer and about installing the required build systems, see [Getting started with AWS DeepRacer OpenSource](https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/getting-started.md).
 
-The `i2c_pkg` specifically depends on the following ROS 2 packages as build and execute dependencies:
+The `i2c_pkg` specifically depends on the following ROS 2 packages as build and run dependencies:
 
 * `deepracer_interfaces_pkg`: This package contains the custom message and service-type definitions used across the AWS DeepRacer core application.
 
